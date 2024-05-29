@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Magali</h1>
 <h3 align="center">A software developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Node.js and Springboot**
+- 🌱 I’m currently learning **Node.js and Spring Boot**
 
 - 📫 How to reach me **maguimourino@gmail.com**
 
