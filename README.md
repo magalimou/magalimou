@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I'm Magali</h1>
+<h1 align="center">Hi, I'm Magali 👋</h1>
 <h3 align="center">A software developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Node.js and Spring Boot**
