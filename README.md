@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Magali 👋</h1>
+<h1 align="left">Hi! I'm Magali 👋</h1>
 <h3 align="left">A software developer from Argentina</h3>
 
 - 📫 How to reach me **maguimourino@gmail.com**
